@@ -35,6 +35,7 @@
     * 7 basic log levels
     * 2 specific levels for Logger
     * Can define custom level - not preferable
+    
 Level            | Numeric Value   | Description
 ---------------  | --------------- | ---------------
 SEVERE           | 1000            | Serious Failure
