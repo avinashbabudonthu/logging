@@ -41,10 +41,10 @@ Level            | Numeric Value   | Description
 SEVERE           | 1000            | Serious Failure
 WARNING          | 900             | Warning
 INFO             | 800             | Information
-CONFIG  | 700             | Configuration information like database connection etc
-FINE    | 500             | General developer needed information
-FINER   | 400             | Detailed developer needed information
-FINEST  | 300             | Specialized developer needed information
+CONFIG           | 700             | Configuration information like database connection etc
+FINE             | 500             | General developer needed information
+FINER            | 400             | Detailed developer needed information
+FINEST           | 300             | Specialized developer needed information
 
 First Header  | Second Header
 ------------- | -------------
