@@ -27,4 +27,17 @@ public class LoggingPractice {
 		logger.log(Level.SEVERE, "severe log");
 		logger.log(Level.FINE, "fine log");
 	}
+
+	@Test
+	public void loggerFromLoggerClass() {
+		Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+
+		logger.finer("finer log");
+		logger.fine("fine log");
+		logger.config("config log");
+		logger.info("info log");
+		logger.warning("warning log");
+		logger.severe("severe log");
+
+	}
 }
