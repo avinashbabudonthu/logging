@@ -44,6 +44,8 @@ CONFIG           | 700             | Configuration information like database con
 FINE             | 500             | General developer needed information
 FINER            | 400             | Detailed developer needed information
 FINEST           | 300             | Specialized developer needed information
+OFF              |                 | logging off
+ALL              |                 | log every thing
 
 ## Log methods
 * Simple **log** method
