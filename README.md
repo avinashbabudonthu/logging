@@ -1,4 +1,6 @@
-# Logging Examples
+# Logging
+* [Log4J](log4j)
+* [Java Util Logging](util-logging)
 
 ## Materials
 ### Pluralsight
