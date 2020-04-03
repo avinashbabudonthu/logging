@@ -1,5 +1,6 @@
 # Logging
 * [Log4J](log4j)
+* [Splunk](splunk)
 * [Java Util Logging](util-logging)
 
 ## Materials
